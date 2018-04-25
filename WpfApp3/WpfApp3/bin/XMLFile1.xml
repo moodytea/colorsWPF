@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfColorModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ColorModel>
+    <Id>1</Id>
+    <Red>0</Red>
+    <Green>104</Green>
+    <Blue>0</Blue>
+  </ColorModel>
+  <ColorModel>
+    <Id>2</Id>
+    <Red>0</Red>
+    <Green>104</Green>
+    <Blue>197</Blue>
+  </ColorModel>
+</ArrayOfColorModel>
